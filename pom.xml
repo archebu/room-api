@@ -20,7 +20,7 @@
         <springfox-swagger-ui.version>2.9.2</springfox-swagger-ui.version>
         <surefire.args>-Xmx1024m</surefire.args>
         <jacoco-maven-plugin.version>0.7.9</jacoco-maven-plugin.version>
-        <checkstyle.version>8.8</checkstyle.version>
+        <checkstyle.version>8.29</checkstyle.version>
         <sonar-maven-plugin.version>3.2</sonar-maven-plugin.version>
         <plugin.surefire.version>2.22.1</plugin.surefire.version>
         <logback-gelf.version>2.0.0</logback-gelf.version>
